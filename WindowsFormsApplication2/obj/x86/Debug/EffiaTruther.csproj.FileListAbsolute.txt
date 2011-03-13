@@ -1,0 +1,20 @@
+C:\Documents and Settings\Saranyan\My Documents\Visual Studio 2008\Projects\Efiia Truthing Tool\WindowsFormsApplication2\bin\Debug\EfiiaTruther.exe
+C:\Documents and Settings\Saranyan\My Documents\Visual Studio 2008\Projects\Efiia Truthing Tool\WindowsFormsApplication2\bin\Debug\EfiiaTruther.pdb
+C:\Documents and Settings\Saranyan\My Documents\Visual Studio 2008\Projects\Efiia Truthing Tool\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Saranyan\My Documents\Visual Studio 2008\Projects\Efiia Truthing Tool\WindowsFormsApplication2\obj\x86\Debug\EffiaTruther.CommandHelp.resources
+C:\Documents and Settings\Saranyan\My Documents\Visual Studio 2008\Projects\Efiia Truthing Tool\WindowsFormsApplication2\obj\x86\Debug\EffiaTruther.DataDownloader.resources
+C:\Documents and Settings\Saranyan\My Documents\Visual Studio 2008\Projects\Efiia Truthing Tool\WindowsFormsApplication2\obj\x86\Debug\EffiaTruther.Form1.resources
+C:\Documents and Settings\Saranyan\My Documents\Visual Studio 2008\Projects\Efiia Truthing Tool\WindowsFormsApplication2\obj\x86\Debug\EfiiaTruther.Properties.Resources.resources
+C:\Documents and Settings\Saranyan\My Documents\Visual Studio 2008\Projects\Efiia Truthing Tool\WindowsFormsApplication2\obj\x86\Debug\EffiaTruther.csproj.GenerateResource.Cache
+C:\Documents and Settings\Saranyan\My Documents\Visual Studio 2008\Projects\Efiia Truthing Tool\WindowsFormsApplication2\obj\x86\Debug\EfiiaTruther.exe
+C:\Documents and Settings\Saranyan\My Documents\Visual Studio 2008\Projects\Efiia Truthing Tool\WindowsFormsApplication2\obj\x86\Debug\EfiiaTruther.pdb
+C:\Documents and Settings\Saranyan\My Documents\Visual Studio 2008\Projects\Efiia Truthing Tool\WindowsFormsApplication2\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Saranyan\My Documents\Visual Studio 2008\Projects\Efiia Truthing Tool\WindowsFormsApplication2\bin\Debug\AxInterop.SHDocVw.dll
+C:\Documents and Settings\Saranyan\My Documents\Visual Studio 2008\Projects\Efiia Truthing Tool\WindowsFormsApplication2\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\Saranyan\My Documents\Visual Studio 2008\Projects\Efiia Truthing Tool\WindowsFormsApplication2\obj\x86\Debug\AxInterop.SHDocVw.dll
+C:\Documents and Settings\Saranyan\My Documents\Visual Studio 2008\Projects\Efiia Truthing Tool\WindowsFormsApplication2\obj\x86\Debug\EffiaTruther.csproj.ResolveComReference.cache
+C:\Documents and Settings\svigraha\My Documents\Personal Documents and Misc\Temp\Efiia Truthing Tool\WindowsFormsApplication2\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\svigraha\My Documents\Personal Documents and Misc\Temp\Efiia Truthing Tool\WindowsFormsApplication2\obj\x86\Debug\AxInterop.SHDocVw.dll
+C:\Documents and Settings\svigraha\My Documents\Personal Documents and Misc\Temp\Efiia Truthing Tool\WindowsFormsApplication2\obj\x86\Debug\EffiaTruther.csproj.ResolveComReference.cache
+C:\Documents and Settings\svigraha\My Documents\Personal Documents and Misc\Temp\Efiia Truthing Tool\WindowsFormsApplication2\obj\x86\Debug\EfiiaTruther.exe
+C:\Documents and Settings\svigraha\My Documents\Personal Documents and Misc\Temp\Efiia Truthing Tool\WindowsFormsApplication2\obj\x86\Debug\EfiiaTruther.pdb

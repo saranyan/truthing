@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EffiaTruther", "WindowsFormsApplication2\EffiaTruther.csproj", "{6068AA4A-0DB7-47FA-95B1-4D863DD4C91A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EfiiaSetup", "EfiiaSetup\EfiiaSetup.vdproj", "{C99EA03A-1A02-4081-B4EB-B67B409B7FD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6068AA4A-0DB7-47FA-95B1-4D863DD4C91A}.Debug|x86.ActiveCfg = Debug|x86
+		{6068AA4A-0DB7-47FA-95B1-4D863DD4C91A}.Debug|x86.Build.0 = Debug|x86
+		{6068AA4A-0DB7-47FA-95B1-4D863DD4C91A}.Release|x86.ActiveCfg = Release|x86
+		{6068AA4A-0DB7-47FA-95B1-4D863DD4C91A}.Release|x86.Build.0 = Release|x86
+		{C99EA03A-1A02-4081-B4EB-B67B409B7FD9}.Debug|x86.ActiveCfg = Debug
+		{C99EA03A-1A02-4081-B4EB-B67B409B7FD9}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
